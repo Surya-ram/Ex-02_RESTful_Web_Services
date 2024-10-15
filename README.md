@@ -1,4 +1,4 @@
-[# Ex-02_RESTful_Web_Services
+# Ex-02_RESTful_Web_Services
 
 ## Reg.no: 212222040167
 ## Name: Surya R
